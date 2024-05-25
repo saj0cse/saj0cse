@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, Hi, I'm Shakil Ahammed (Joy) 👋
+![Web Developer | ERP Implementation Specialist.](https://media.licdn.com/dms/image/D5616AQEEwUhcvHueWA/profile-displaybackgroundimage-shrink_350_1400/0/1710579826757?e=1721865600&v=beta&t=N4THFQaQnrlpdol5OXQddU1IjouIr8lZSr1zrgkGF0U)
+#### Web Developer | ERP Implementation Specialist.
+
+Experienced IT Professional specializing in Odoo, Logic, and Oracle ERP implementation, user support, Business Analysis, Data Migration, and systems integration. Proven track record in managing ERP systems, generating MIS reports, and translating complex technical concepts. Also a seasoned Web Developer with expertise in Python, React, JavaScript, Bootstrap, Tailwind, CSS, and HTML. Skilled in integrating web solutions with ERP systems. Dedicated to delivering high-quality, scalable web solutions.
+
+Skills: Python / REACT / JS / Bootstrap / Tailwind / CSS / HTML 
+
+- 🔭 I’m currently working on Mir Group (ERP Implementation) 
+- 🌱 I’m currently learning Python 
 
 
-**saj0cse/saj0cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saj0cse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saj0cse/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/saj0cse)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saj0cse)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub streak stats](https://streak-stats.demolab.com/?user=saj0cse)  
 
