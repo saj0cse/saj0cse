@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Shakil Ahammed (Joy) 👋
+### Hi, I'm Shakil Ahammed (Joy) 👋
 ![Web Developer | ERP Implementation Specialist.](https://media.licdn.com/dms/image/D5616AQEEwUhcvHueWA/profile-displaybackgroundimage-shrink_350_1400/0/1710579826757?e=1721865600&v=beta&t=N4THFQaQnrlpdol5OXQddU1IjouIr8lZSr1zrgkGF0U)
 #### Web Developer | ERP Implementation Specialist.
 
