@@ -4,7 +4,7 @@
 
 Experienced IT Professional specializing in Odoo, Logic, and Oracle ERP implementation, user support, Business Analysis, Data Migration, and systems integration. Proven track record in managing ERP systems, generating MIS reports, and translating complex technical concepts. Also a seasoned Web Developer with expertise in Python, React, JavaScript, Bootstrap, Tailwind, CSS, and HTML. Skilled in integrating web solutions with ERP systems. Dedicated to delivering high-quality, scalable web solutions.
 
-Skills: Python / REACT / JS / Bootstrap / Tailwind / CSS / HTML 
+Skills: Python / Java / JavaScript / Bootstrap / Tailwind / CSS / HTML 
 
 - 🔭 I’m currently working on Mir Group (ERP Implementation) 
 - 🌱 I’m currently learning Python 
