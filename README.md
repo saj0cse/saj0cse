@@ -2,9 +2,28 @@
 
 #### ERP Implementation Specialist.
 
-Experienced IT Professional specializing in Odoo, Logic, and Oracle ERP implementation, user support, Business Analysis, Data Migration, and systems integration. Proven track record in managing ERP systems, generating MIS reports, and translating complex technical concepts. Also a seasoned Web Developer with expertise in Python, React, JavaScript, Bootstrap, Tailwind, CSS, and HTML. Skilled in integrating web solutions with ERP systems. Dedicated to delivering high-quality, scalable web solutions.
+Experienced IT Professional with 5+ years in Odoo, Logic, and Oracle ERP implementation, user support, Business Analysis, Data Migration, and systems integration. Demonstrated success in managing ERP systems, generating MIS reports, and providing user support. A skilled communicator is proficient in translating complex technical concepts. Eager to take on a challenging role and drive business growth.
 
-Skills: Python / Java / JavaScript / Bootstrap / Tailwind / CSS / HTML 
+Industry:
+Garments ERP, Footwear ERP, Cement ERP, Block ERP, ReadyMix ERP
+
+Key Skills:
+* ERP Implementation
+* Software Testing
+* Business Analyst
+* Business Automation
+* Software Testing (Manual & Automatic)
+* User Support & Training
+* System Integration 
+* Data Analysis, Migration, Cleaning, Visualization, Processing
+* Business Analysis
+* Power BI | DAX | MIS Reports
+* Proficient in Microsoft Office. 
+
+Technical Proficiency:
+* Oracle ERP | Logic ERP | Odoo ERP
+* HTML | CSS | JavaScript
+* Postgresql | MySQL | Python | Java | Android Studio
 
 - 🔭 I’m currently working on Mir Group (ERP Implementation) 
 - 🌱 I’m currently learning Python 
