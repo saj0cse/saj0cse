@@ -1,5 +1,5 @@
 ### Hi, I'm Shakil Ahammed (Joy) 👋
-![Web Developer | ERP Implementation Specialist.](https://media.licdn.com/dms/image/D5616AQEEwUhcvHueWA/profile-displaybackgroundimage-shrink_350_1400/0/1710579826757?e=1721865600&v=beta&t=N4THFQaQnrlpdol5OXQddU1IjouIr8lZSr1zrgkGF0U)
+![ERP Implementation Specialist.](https://media.licdn.com/dms/image/D5616AQEEwUhcvHueWA/profile-displaybackgroundimage-shrink_350_1400/0/1710579826757?e=1721865600&v=beta&t=N4THFQaQnrlpdol5OXQddU1IjouIr8lZSr1zrgkGF0U)
 #### Web Developer | ERP Implementation Specialist.
 
 Experienced IT Professional specializing in Odoo, Logic, and Oracle ERP implementation, user support, Business Analysis, Data Migration, and systems integration. Proven track record in managing ERP systems, generating MIS reports, and translating complex technical concepts. Also a seasoned Web Developer with expertise in Python, React, JavaScript, Bootstrap, Tailwind, CSS, and HTML. Skilled in integrating web solutions with ERP systems. Dedicated to delivering high-quality, scalable web solutions.
