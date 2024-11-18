@@ -17,7 +17,7 @@ Key Skills:
 * System Integration 
 * Data Analysis, Migration, Cleaning, Visualization, Processing
 * Business Analysis
-* Power BI | DAX | MIS Reports
+* Power BI | MIS Reports
 * Proficient in Microsoft Office. 
 
 Technical Proficiency:
