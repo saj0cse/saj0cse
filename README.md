@@ -2,10 +2,10 @@
 
 #### ERP Implementation Specialist.
 
-Experienced IT Professional with 5+ years in Odoo, Logic, and Oracle ERP implementation, user support, Business Analysis, Data Migration, and systems integration. Demonstrated success in managing ERP systems, generating MIS reports, and providing user support. A skilled communicator is proficient in translating complex technical concepts. Eager to take on a challenging role and drive business growth.
+Dynamic ERP Implementation with five years of experience in Odoo ERP, Logic ERP, and Oracle ERP. Proven track record in managing end-to-end ERP implementations, data migration, software testing, and integrating with third-party applications. Proficient in business analysis and process automation, with a strong focus on user training and enhancing operational efficiency. Dedicated to providing technical solutions that improve organizational performance and foster continuous improvement.
 
-Industry:
-Garments ERP, Footwear ERP, Cement ERP, Block ERP, ReadyMix ERP
+Experienced Industry:
+Garments ERP, Textile ERP, Footwear ERP, Cement ERP, Block ERP, ReadyMix ERP
 
 Key Skills:
 * ERP Implementation
