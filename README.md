@@ -1,6 +1,6 @@
 <h1 align="start">Hi 👋, I'm Shakil Ahammed (Joy)</h1>
 <h3 align="start">ERP Implementation Specialist.</h3>
-- 🔭 I’m currently working on Mir Group [(Odoo ERP Implementation)](https://mirgroupbd.com/)
+- 🔭 I’m currently working on Mir Group [Odoo ERP Implementation](https://mirgroupbd.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saj0cse&label=Profile%20views&color=0e75b6&style=flat" alt="saj0cse" /> </p>
 
