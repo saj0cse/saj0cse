@@ -15,10 +15,7 @@ Experienced ERP Implementation and Business Analyst with over 4 years of experti
     <p>• Business Automation & Analysis: Business Automation, Fit-Gap Analysis</p>
     <p>• Data Management: Data Analysis, Migration, Cleaning, Visualization, Processing</p>
     <p>• Tools: Microsoft Office, Jira, Postman, draw.io, lucid.app</p>
-
-<br><br><br>
-
-
+<br><br>
 - 🔭 I’m currently working on [Mir Group (Odoo ERP Implementation)](https://mirgroupbd.com/)
 
 - 🌱 I’m currently learning **Python With Odoo**
