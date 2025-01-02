@@ -1,5 +1,7 @@
 <h1 align="start">Hi 👋, I'm Shakil Ahammed (Joy)</h1>
 <h3 align="start">ERP Implementation Specialist.</h3>
+- 🔭 I’m currently working on [Mir Group (Odoo ERP Implementation)](https://mirgroupbd.com/)
+- 🌱 I’m currently learning **Python With Odoo**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saj0cse&label=Profile%20views&color=0e75b6&style=flat" alt="saj0cse" /> </p>
 
@@ -16,10 +18,6 @@ Experienced ERP Implementation and Business Analyst with over 4 years of experti
     <p>• Data Management: Data Analysis, Migration, Cleaning, Visualization, Processing</p>
     <p>• Tools: Microsoft Office, Jira, Postman, draw.io, lucid.app</p>
 <br><br>
-- 🔭 I’m currently working on [Mir Group (Odoo ERP Implementation)](https://mirgroupbd.com/)
-
-- 🌱 I’m currently learning **Python With Odoo**
-
 - 👯 I’m looking to collaborate on [ERP Implementation]
 
 - 🤝 I’m looking for help with [Odoo ERP Implementation](https://www.odoo.com/)
