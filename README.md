@@ -16,7 +16,7 @@
 - 👨‍💻 My Portfolio: [https://saj0cse.github.io/saj/](https://saj0cse.github.io/saj/)
 
 
-- 💬 **About us**
+- 💬 **<h3About us</h3>**
 Experienced ERP Implementation and Business Analyst with over 4 years of expertise in Odoo, Logic, and Oracle ERP systems. Proven ability to manage full-cycle ERP implementations, data migration, software testing, and integrating third-party applications. Skilled in gathering and analyzing business requirements, optimizing business processes, and delivering customized solutions. Strong focus on business analysis, process automation, and user training, with a commitment to improving operational efficiency and business performance. Experienced in aligning technology solutions with business objectives to drive growth and innovation. Experienced in various industries, including Textile, Footwear, Cement, Block, and Ready-mix. 
 
 - **Key Skills:** 
