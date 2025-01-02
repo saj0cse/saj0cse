@@ -3,18 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saj0cse&label=Profile%20views&color=0e75b6&style=flat" alt="saj0cse" /> </p>
 
-- 💬<h3> About us </h3>
+- <h3> About us </h3>
 Experienced ERP Implementation and Business Analyst with over 4 years of expertise in Odoo, Logic, and Oracle ERP systems. Proven ability to manage full-cycle ERP implementations, data migration, software testing, and integrating third-party applications. Skilled in gathering and analyzing business requirements, optimizing business processes, and delivering customized solutions. Strong focus on business analysis, process automation, and user training, with a commitment to improving operational efficiency and business performance. Experienced in aligning technology solutions with business objectives to drive growth and innovation. Experienced in various industries, including Textile, Footwear, Cement, Block, and Ready-mix. 
 
-- **<h3>Key Skills:</h3>** 
-<p>• ERP Systems: Odoo ERP, Logic ERP, Oracle ERP</p>
-<p>• Software Testing: Manual Testing, SDLC, STLC, Jira, Postman</p>
-<p>• Programming: Python, Java, JavaScript</p>
-<p>• Web Technologies: HTML, CSS (Bootstrap, Tailwind), JavaScript</p>
-<p>• Database Management: PostgreSQL, MySQL</p>
-<p>• Business Automation & Analysis: Business Automation, Fit-Gap Analysis</p>
-<p>• Data Management: Data Analysis, Migration, Cleaning, Visualization, Processing</p>
-<p>• Tools: Microsoft Office, Jira, Postman</p>
+- <h3>Key Skills:</h3>
+    <p>• **ERP Systems:** Odoo ERP, Logic ERP, Oracle ERP</p>
+    <p>• **Software Testing:** Manual Testing, SDLC, STLC, Jira, Postman</p>
+    <p>• **Programming:** Python, Java, JavaScript</p>
+    <p>• **Web Technologies:** HTML, CSS (Bootstrap, Tailwind), JavaScript</p>
+    <p>• **Database Management:** PostgreSQL, MySQL</p>
+    <p>• **Business Automation & Analysis:** Business Automation, Fit-Gap Analysis</p>
+    <p>• **Data Management:** Data Analysis, Migration, Cleaning, Visualization, Processing</p>
+    <p>• **Tools:** Microsoft Office, Jira, Postman, draw.io, lucid.app</p>
 
 
 
