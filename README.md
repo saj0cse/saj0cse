@@ -1,11 +1,11 @@
 <h1 align="start">Hi 👋, I'm Shakil Ahammed (Joy)</h1>
-<h3 align="start">ERP Implementation Specialist.</h3>
-- 🔭 I’m currently working on Mir Group (Odoo ERP Implementation)
+<h3 align="start">Odoo Business Analyst</h3>
+- 🔭 I’m currently working on Xsellence Bangladesh Limited
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saj0cse&label=Profile%20views&color=0e75b6&style=flat" alt="saj0cse" /> </p>
 
 - <h3> About us </h3>
-Experienced ERP Implementation and Business Analyst with over 4 years of expertise in Odoo, Logic, and Oracle ERP systems. Proven ability to manage full-cycle ERP implementations, data migration, software testing, and integrating third-party applications. Skilled in gathering and analyzing business requirements, optimizing business processes, and delivering customized solutions. Strong focus on business analysis, process automation, and user training, with a commitment to improving operational efficiency and business performance. Experienced in aligning technology solutions with business objectives to drive growth and innovation. Experienced in various industries, including Textile, Footwear, Cement, Block, and Ready-mix. 
+Experienced ERP Implementation and Business Analyst with over 4 years of expertise in Odoo, Logic, and Oracle ERP systems. Proven ability to manage full-cycle ERP implementations, data migration, software testing, and integrating third-party applications. Skilled in gathering and analyzing business requirements, optimizing business processes, and delivering customized solutions. Strong focus on business analysis, process automation, and user training, with a commitment to improving operational efficiency and business performance. Experienced in aligning technology solutions with business objectives to drive growth and innovation.Experienced in various industries, including Textile, Footwear, Cement, Block, and Ready-mix. 
 
 - <h3>Key Skills:</h3>
     <p>• ERP Systems: Odoo ERP, Logic ERP, Oracle ERP</p>
