@@ -19,7 +19,7 @@ Experienced ERP Implementation with over 5 years of expertise in Odoo and Logic 
 <br><be>
 
   <br>
-- 🤝 I’m looking for help with [Odoo ERP Implementation](https://shakilahammed.odoo.com/)
+- 🤝 I’m looking for help with [Odoo ERP Implementation]
 
 - 👨‍💻 My Portfolio: [https://shakilahammed.odoo.com/](https://shakilahammed.odoo.com/)
 
@@ -28,7 +28,6 @@ Experienced ERP Implementation with over 5 years of expertise in Odoo and Logic 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saj0cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saj0cse/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/saj0cse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/saj0cse/" height="30" width="40" /></a>
 </p>
 
 
